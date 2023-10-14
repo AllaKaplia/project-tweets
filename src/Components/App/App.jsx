@@ -15,6 +15,7 @@ function App() {
         <Route path="/tweets" element={<Tweets />} />
       </Route>
       <Route path="*" element={<NotFound />} />
+      
     </Routes>
   );
 }

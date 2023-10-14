@@ -1,18 +1,15 @@
 import axios from "axios";
 
-axios.defaults.baseURL = 'https://65292dd955b137ddc83e53fe.mockapi.io';
-const perPage = 3;
 
-export const getAllTweets = async (signal) => {
-    const response = await axios.get('/tweets', {
-        signal,
-        params: {
-            per_page: perPage,
-        }
-    });
+const API_BASE_URL = 'https://65292dd955b137ddc83e53fe.mockapi.io';
 
-    console.log(response);
-    console.log(response.data);
-    
+async function getAllTweets() {
+  try {
+    const response = await axios.get(`${API_BASE_URL}/users`);
     return response.data;
+  } catch (error) {
+    throw new Error(`Request error: ${error.message}`);
+  }
 };
+
+export default getAllTweets;

@@ -1,20 +1,16 @@
-
+import { NavLink } from "react-router-dom";
 import { TbArrowBackUpDouble } from 'react-icons/tb';
-import { Link } from 'react-router-dom';
 
 
-const Tweets = () => {
-    return (
+const GoBackLink = ({ to }) => {
+    return(
         <div>
-            <Link to="/">
+            <NavLink to={to}>
                 <button type="button" >
                     <TbArrowBackUpDouble />
                     <span>Go back Home</span>
                 </button>
-            </Link>
-            <h1>Tweets</h1>
+            </NavLink>
         </div>
     )
-};
-
-export default Tweets;
+}

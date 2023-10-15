@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+      "title": "Interesting Tweet",
+      "subtitle": "Subtitle for Tweet",
+      "text": "This is an interesting tweet with 200-300 characters of text content. It shares a fascinating story or thought.",
+      "image": "https://images.unsplash.com/photo-1697169982091-1aecf11fbfbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+    },
+    {
+        "id": 2,
+      "title": "Engaging Tweet",
+      "subtitle": "Subtitle for Tweet",
+      "text": "This is another captivating tweet with its own story and information.",
+      "image": "https://images.unsplash.com/photo-1696172686863-f47aac202464?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+        "id": 3,
+      "title": "Thought-provoking Tweet",
+      "subtitle": "Subtitle for Tweet",
+      "text": "This tweet also contains a lot of interesting details and information.",
+      "image": "https://images.unsplash.com/photo-1696312981323-60c5a3582887?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+        "id": 4,
+      "title": "Fascinating Tweet",
+      "subtitle": "Subtitle for Tweet",
+      "text": "Another intriguing tweet for your enjoyment and thoughts.",
+      "image": "https://images.unsplash.com/photo-1696422221633-1ae8f741b2cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+        "id": 5,
+      "title": "Last but Not Least Tweet",
+      "subtitle": "Subtitle for Tweet",
+      "text": "The final, yet equally important, interesting tweet for you.",
+      "image": "https://images.unsplash.com/photo-1654863061735-d1fdff56c8a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+    }
+]
+  

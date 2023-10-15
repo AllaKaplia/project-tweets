@@ -29,7 +29,7 @@ const SharedLayout = () => {
                         <Link to="/tweets" >
                             <ButtonNav type='button'>
                                 <BiMessageRoundedDots />
-                                Tweets
+                                Users
                             </ButtonNav>
                         </Link>
                     </li>

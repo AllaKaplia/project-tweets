@@ -9,7 +9,7 @@ const Loader = () => {
             width="60"
             ariaLabel="comment-loading"
             wrapperStyle={{}}
-            wrapperClass="comment-wrapper"
+            wrapperClass="vortex-wrapper"
             color="#fff"
             backgroundColor="#471CA9"
             />

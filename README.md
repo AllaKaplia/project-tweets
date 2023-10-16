@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Project Name: Tweets
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Type: Private [https://tweets-company.netlify.app/]
 
-## Available Scripts
+## Description:
 
-In the project directory, you can run:
+The "project-tweets" project is a web application developed using React, a popular JavaScript library for building user interfaces. This project is focused on displaying tweets and engaging content in an interactive manner.
 
-### `npm start`
+### Key Dependencies:
+1. "axios" - Used for making HTTP requests to fetch data and interact with APIs.
+2. "font-awesome" - Provides a collection of scalable vector icons that enhance the visual appeal of the project.
+3. "react-slick" - A component for creating responsive and customizable sliders in the project.
+4. "react" and "react-dom" - The core libraries for building React-based user interfaces.
+5. "react-icons" - A library for including various icons in the project for improved user experience.
+6. "react-loader-spinner" - Used to display loading spinners and provide feedback during data retrieval.
+7. "react-router-dom" - Enables client-side routing, allowing navigation between different views within the application.
+8. "slick-carousel" - Provides the core functionality and styles for creating slick sliders.
+9. "styled-components" - A CSS-in-JS library for styling components in a more modular and maintainable way.
+10. "web-vitals" - Monitors web performance and gathers important metrics for optimizing the project.
+### ESLint Configuration:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The project uses the default ESLint configuration for React applications, extending the "react-app" and "react-app/jest" presets to maintain code quality and consistency.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Overall, "project-tweets" is a React-based web application that leverages various libraries and dependencies to create an engaging and interactive experience for users. It focuses on presenting tweets and other content while optimizing performance and maintaining code quality.
 
-### `npm test`
+### Hosting
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[https://app.netlify.com/]
 
-### `npm run build`
+### My contacts
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+LinkedIn [https://www.linkedin.com/in/alla-kaplia];
+Telegram [https://t.me/AllaKaplia]

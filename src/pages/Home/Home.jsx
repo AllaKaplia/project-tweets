@@ -15,6 +15,9 @@ const Home = () => {
         slidesToScroll: 1,
         initialSlide: 0,
         vertical: false,
+        autoplay: true,
+        autoplaySpeed: 3000,
+        cssEase: "linear",
         responsive: [
             {
                 breakpoint: 1024,

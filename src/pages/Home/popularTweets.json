@@ -33,6 +33,41 @@
       "subtitle": "Subtitle for Tweet",
       "text": "The final, yet equally important, interesting tweet for you.",
       "image": "https://images.unsplash.com/photo-1654863061735-d1fdff56c8a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Exciting New Tweet",
+      "subtitle": "Check this out!",
+      "text": "Here's the latest and most exciting tweet for you.",
+      "image": "https://images.unsplash.com/photo-1696922856164-30aa86fc66a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80"
+    },
+    {
+      "id": 7,
+      "title": "A Tweet of Inspiration",
+      "subtitle": "Get motivated today!",
+      "text": "Get inspired and motivated with this tweet.",
+      "image": "https://images.unsplash.com/photo-1696942916304-7908f9cd5f2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+      "id": 8,
+      "title": "A Fun and Quirky Tweet",
+      "subtitle": "Don't miss this one!",
+      "text": "You won't want to miss this fun and quirky tweet.",
+      "image": "https://plus.unsplash.com/premium_photo-1695558759261-8801ac5e2b9d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Tweet of the Day",
+      "subtitle": "Today's top tweet",
+      "text": "Discover the tweet of the day right here!",
+      "image": "https://images.unsplash.com/photo-1696439395756-3aab6b61c5f7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+      "id": 10,
+      "title": "Last but Not Least Tweet",
+      "subtitle": "Subtitle for Tweet",
+      "text": "The final, yet equally important, interesting tweet for you.",
+      "image": "https://images.unsplash.com/photo-1696960245767-8d62930c76dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
     }
 ]
   

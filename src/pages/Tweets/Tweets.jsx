@@ -72,7 +72,7 @@ const Tweets = () => {
   const loadMoreTweets = () => {
     if (hasMore) {
       setLoading(true);
-      setPerPage(prevPerPage => prevPerPage + 4);
+      setPerPage(perPage + 4);
     }
   };
 

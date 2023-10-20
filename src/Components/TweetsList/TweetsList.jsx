@@ -4,7 +4,7 @@ import mainCardImage2x from '../../images/picture@2x-min.png';
 import mainCardImage3x from '../../images/picture@3x-min.png';
 import { TweetItem, TweetsBox, ImageMainCard, Avatar, BorderAvatar, TextContainer, TextTweets, BoxForButton, ButtonFollow } from './TweetsList.styled';
 import IconGoIT from '../IconGoIT/IconGoIT';
-import { updateFollowers } from '../../Services/Services'; // Імпортуємо оновлену функцію
+import { updateFollowers } from '../../Services/Services';
 
 const TweetsList = ({ tweets }) => {
   const [followingStatus, setFollowingStatus] = useState({});
@@ -30,7 +30,7 @@ const TweetsList = ({ tweets }) => {
         return newStatus;
       });
     } catch (error) {
-      console.error('Помилка при виконанні запиту на оновлення користувача:', error);
+      console.error('An error occurred while executing the user update request:', error);
     }
   };
   

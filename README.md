@@ -8,7 +8,7 @@ The "project-tweets" project is a web application developed using React, a popul
 
 ### Key Dependencies:
 1. "axios" - Used for making HTTP requests to fetch data and interact with APIs.
-2. "font-awesome" - Provides a collection of scalable vector icons that enhance the visual appeal of the project.
+2.  "web-vitals" - Monitors web performance and gathers important metrics for optimizing the project.
 3. "react-slick" - A component for creating responsive and customizable sliders in the project.
 4. "react" and "react-dom" - The core libraries for building React-based user interfaces.
 5. "react-icons" - A library for including various icons in the project for improved user experience.
@@ -16,7 +16,7 @@ The "project-tweets" project is a web application developed using React, a popul
 7. "react-router-dom" - Enables client-side routing, allowing navigation between different views within the application.
 8. "slick-carousel" - Provides the core functionality and styles for creating slick sliders.
 9. "styled-components" - A CSS-in-JS library for styling components in a more modular and maintainable way.
-10. "web-vitals" - Monitors web performance and gathers important metrics for optimizing the project.
+
 ### ESLint Configuration:
 
 The project uses the default ESLint configuration for React applications, extending the "react-app" and "react-app/jest" presets to maintain code quality and consistency.
